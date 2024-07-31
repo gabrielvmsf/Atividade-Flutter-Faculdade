@@ -196,7 +196,7 @@ class _CommentsPageState extends State<CommentsPage> {
                           BoxShadow(
                             color: Colors.black.withOpacity(0.1),
                             blurRadius: 4.0,
-                            offset: Offset(0, 2),
+                            offset: const Offset(0, 2),
                           ),
                         ],
                       ),
